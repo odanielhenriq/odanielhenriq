@@ -1,4 +1,4 @@
-<h2 align="center">Oiii! Eu sou o Daniel Henrique</h2>
+<h2 align="center">Oi! Eu sou o Daniel Henrique</h2>
 
 <div align="center">
   <a href="https://github.com/odanielhenriq">
